@@ -28,3 +28,4 @@ ctrl + j : vscode 콘솔창 on/off
 4. git config --global --list
 
 
+버전 생성
